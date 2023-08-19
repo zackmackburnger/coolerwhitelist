@@ -1,7 +1,7 @@
 {
-  "OWNER": {
-    "users": ["v"],
-    "color": "#4943243680" 
+  "STROKED OWNER": {
+    "users": ["4943243680"],
+    "color": "#FF0000" 
   },
   "TESTER": {
     "users": ["v"],
