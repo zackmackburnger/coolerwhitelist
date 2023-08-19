@@ -1,34 +1,10 @@
 {
-  "STROKED OWNER": {
+  "VAPE OWNER": {
     "users": ["4944792603"],
-    "color": "#FF0000" 
+    "color": "#FFFFFF" 
   },
-  "TESTER": {
+  "VAPE PRIVATE": {
     "users": ["v"],
-    "color": "#BF00FF" 
-  },
-  "FULL": {
-    "users": ["4944783277"],
-    "color": "#FFA600" 
-  },
-    "DEVS": {
-    "users": ["4943243680"],
-    "color": "#91110D" 
-  },
-  "COMMUNITY MANAGER": {
-    "users": ["v"],
-    "color": "#00FF2F" 
-  },
-  "PATRON": {
-    "users": ["V", "v", "v", "v", "v", "v", "v", "v"],
-    "color": "#7B1113" 
-  },
-  "AC MOD": {
-    "users": ["v", "v", "v", "v"],
-    "color": "#00FFFF" 
-  },
-  "CONTENT CREATOR": {
-    "users": ["v", "v", "v", "v"],
-    "color": "#FF0000" 
+    "color": "#B200FF" 
   }
 }
