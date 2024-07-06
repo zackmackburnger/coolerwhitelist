@@ -1,10 +1,10 @@
 {
-  "President": {
+  "Owner": {
     "users": ["5281124960"],
     "color": "#9f55b4" 
   },
-  "IPS": {
-    "users": ["4696889862"],
+  "Holder": {
+    "users": [""],
     "color": "#FFFFFF" 
   }
 }
